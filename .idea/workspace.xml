@@ -2,103 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="020c9b38-0182-4090-bdaf-5fc6ffc5e507" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/01router.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/02router.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/03demo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/04router_express.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/05router_express.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/06router_express.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/06router_express_module.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/login.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/mime.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/model/express-route.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/model/http-route.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/model/model.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/Jakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/ejs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/ejs.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/lib/ejs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/lib/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/ejs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/backslash.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/backslash.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/comments.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/comments.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/consecutive-tags.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/consecutive-tags.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/double-quote.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/double-quote.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/error.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/error.out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/fail.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/hello-world.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/include-abspath.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/include-root.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/include-simple.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/include-simple.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/include.css.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/include.css.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/include.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/include.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/include_cache.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/include_cache.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/include_preprocessor.css.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/include_preprocessor.css.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/include_preprocessor.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/include_preprocessor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/include_preprocessor_cache.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/include_preprocessor_cache.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/include_preprocessor_line_slurp.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/include_preprocessor_line_slurp.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/include_preprocessor_line_slurp_child.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/includes/bom.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/includes/menu-item.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/includes/menu/item.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/literal.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/literal.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/menu.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/menu.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/menu_preprocessor.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/menu_preprocessor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/menu_var.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/messed.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/messed.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/newlines.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/newlines.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/newlines.mixed.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/newlines.mixed.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/no.newlines.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/no.newlines.error.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/no.newlines.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/no.semicolons.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/no.semicolons.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/para.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/pet.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/rmWhitespace.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/rmWhitespace.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/single-quote.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/single-quote.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/space-and-tab-slurp.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/space-and-tab-slurp.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/strict.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/user-no-with.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/user.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/fixtures/with-context.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/mocha.opts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/tmp/include.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/tmp/include_preprocessor.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.2.5.6@ejs/test/tmp/renderFile.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/node_modules/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/views/form.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/views/index.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/views/login.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13/views/register.ejs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -116,8 +19,8 @@
       <file leaf-file-name="model.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chapter13/model/model.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="48" column="27" lean-forward="true" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
+            <state relative-caret-position="625">
+              <caret line="47" column="21" lean-forward="false" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -233,11 +136,6 @@
               <item name="NodeExample" type="b2602c69:ProjectViewProjectNode" />
               <item name="NodeExample" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="NodeExample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NodeExample" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter13" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -308,12 +206,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526522538761</updated>
-      <workItem from="1526522540014" duration="16594000" />
+      <workItem from="1526522540014" duration="16711000" />
     </task>
+    <task id="LOCAL-00001" summary="加入第十三章测试">
+      <created>1526545709727</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1526545709727</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16594000" />
+    <option name="totallyTimeSpent" value="16711000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -341,6 +247,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="加入第十三章测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="加入第十三章测试" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -755,8 +665,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter13/model/model.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="48" column="27" lean-forward="true" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
+        <state relative-caret-position="625">
+          <caret line="47" column="21" lean-forward="false" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
           <folding />
         </state>
       </provider>
