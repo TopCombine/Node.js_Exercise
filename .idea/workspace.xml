@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="020c9b38-0182-4090-bdaf-5fc6ffc5e507" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="020c9b38-0182-4090-bdaf-5fc6ffc5e507" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -16,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="model.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter13/model/model.js">
+      <file leaf-file-name="01router.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter13/01router.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="45" column="32" lean-forward="false" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
+            <state relative-caret-position="460">
+              <caret line="56" column="28" lean-forward="false" selection-start-line="56" selection-start-column="28" selection-end-line="56" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -89,6 +87,7 @@
         <option value="$PROJECT_DIR$/chapter12/model/router.js" />
         <option value="$PROJECT_DIR$/chapter11/00services2.js" />
         <option value="$PROJECT_DIR$/chapter12/00services3.js" />
+        <option value="$PROJECT_DIR$/chapter13/01router.js" />
       </list>
     </option>
   </component>
@@ -135,6 +134,17 @@
             <path>
               <item name="NodeExample" type="b2602c69:ProjectViewProjectNode" />
               <item name="NodeExample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NodeExample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NodeExample" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter13" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NodeExample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NodeExample" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter13" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -206,7 +216,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526522538761</updated>
-      <workItem from="1526522540014" duration="16815000" />
+      <workItem from="1526522540014" duration="17083000" />
     </task>
     <task id="LOCAL-00001" summary="加入第十三章测试">
       <created>1526545709727</created>
@@ -236,11 +246,18 @@
       <option name="project" value="LOCAL" />
       <updated>1526545824165</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Push to Remote Repository Test">
+      <created>1526546092912</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1526546092912</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16815000" />
+    <option name="totallyTimeSpent" value="17083000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -272,21 +289,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="加入第十三章测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="加入第十三章测试" />
+    <MESSAGE value="Remote" />
+    <MESSAGE value="Push to Remote Repository Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Push to Remote Repository Test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chapter03/tools.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter03/tools2.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -687,8 +698,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter13/model/model.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="45" column="32" lean-forward="false" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
+        <state relative-caret-position="465">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="40" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter13/01router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="56" column="28" lean-forward="false" selection-start-line="56" selection-start-column="28" selection-end-line="56" selection-end-column="28" />
           <folding />
         </state>
       </provider>
